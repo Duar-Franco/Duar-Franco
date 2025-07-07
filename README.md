@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+o+meu+nome+é+Duar-Franc;Sou+estudante+de+Engenharia+Informática;Estudo+no+Politécnico+de+Leiria;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+o+meu+nome+é+Duar-Franc;Sou+estudante+de+Engenharia+Informática;Estudo+no+Politécnico+de+Leiria;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 ---
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Duar-Franc&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Duar-Franc github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duar-Franc&layout=compact&hide_border=true&title_color=1E90FF&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=duar-franc&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Duar-Franc GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duar-franc&layout=compact&hide_border=true&title_color=1E90FF&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 ---
@@ -15,7 +15,7 @@
 
 - 🎓 Estudante de Engenharia Informática no **Politécnico de Leiria**
 - 📌 Baseado em Portugal
-- 🧭 Ainda a descobrir o ramo da informática que mais me apaixona
+- 🧭 Ainda a explorar o ramo da informática que mais me apaixona
 - 🔄 Sempre à procura de aprender algo novo!
 
 ---
@@ -37,7 +37,7 @@
 ---
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Duar-Franc/Duar-Franc/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/duar-franc/duar-franc/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
@@ -52,4 +52,4 @@
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
