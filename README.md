@@ -14,7 +14,7 @@
 ### 📚 Sobre mim
 
 - 🎓 Estudante de Engenharia Informática no **Politécnico de Leiria**
-- 📌 Baseado em Portugal
+- 📌 Natural de Portugal
 - 🧭 Ainda a explorar o ramo da informática que mais me apaixona
 - 🔄 Sempre à procura de aprender algo novo!
 
@@ -44,7 +44,7 @@
 
 ---
 
-### 📱 Redes Sociais
+### 📱 Links
 
 <div align="center"> 
   <a href="https://www.instagram.com/duar_franc/" target="_blank">
