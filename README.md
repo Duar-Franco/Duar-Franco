@@ -5,8 +5,8 @@
 ---
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=duar-franco&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Duar-Franc GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duar-franco&layout=compact&hide_border=true&title_color=1E90FF&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Duar-Franco&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Duar-Franco GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duar-Franco&layout=compact&hide_border=true&title_color=1E90FF&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 ---
@@ -36,8 +36,10 @@
 
 ---
 
+### 🐍 Cobra que come os meus contributos
+
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/duar-franc/duar-franc/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Duar-Franco/Duar-Franco/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
