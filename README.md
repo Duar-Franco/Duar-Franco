@@ -4,11 +4,15 @@
 
 ---
 
-<div align="center">  
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Duar-Franco&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Duar-Franco GitHub Stats" /> 
+  <div style="border: 2px solid #1E90FF; border-radius: 8px; padding: 10px;">
+    <img width="300" height="195" src="https://github-readme-stats.vercel.app/api?username=Duar-Franco&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Duar-Franco GitHub Stats" />
+  </div>
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duar-Franco&layout=compact&hide_border=true&title_color=1E90FF&text_color=ff91a4&bg_color=0d1117" />
+  <div style="border: 2px solid #1E90FF; border-radius: 8px; padding: 10px;">
+    <img width="250" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duar-Franco&layout=compact&hide_border=true&title_color=1E90FF&text_color=ff91a4&bg_color=0d1117" />
+  </div>
 
 </div>
 
@@ -72,4 +76,4 @@
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/> 
